@@ -1,0 +1,3 @@
+$title[Ajuda]
+$description[Ola eu tenho comandos de **ping**, **setprefix** e **eval** e meu prefixo nesse servidor é **$getServerVar[prefix]**]
+$color[$getVar[color]]
