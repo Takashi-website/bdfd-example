@@ -1,7 +1,0 @@
-$if[$var[m2]==ajuda]
-https://raw.githubusercontent.com/Takashi-website/bdfd-example/refs/heads/main/comandos/ajuda
-$elseif[$var[m2]==teste]
-https://raw.githubusercontent.com/Takashi-website/bdfd-example/refs/heads/main/comandos/teste
-$else
-https://raw.githubusercontent.com/Takashi-website/bdfd-example/refs/heads/main/redirects/nada
-$endif
